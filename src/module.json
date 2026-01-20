@@ -10,8 +10,8 @@
       "discord": "masuelol"
     }
   ],
-  "esmodules": ["journal-thumbnail.ts"],
-  "styles": ["styles/style.css"],
+  "esmodules": ["journal-thumbnail.js"],
+  "styles": ["journal-thumbnail.css"],
   "license": "LICENSE",
   "bugs": "https://github.com/samulopez/foundryvtt-journal-thumbnail/issues",
   "changelog": "https://github.com/samulopez/foundryvtt-journal-thumbnail/releases",
